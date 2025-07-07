@@ -58,6 +58,7 @@ This system helps:
 - [Kaggle Fashion Product Images Dataset (Small - 572 MB)](https://www.kaggle.com/datasets)
 - [Kaggle Fashion Product Images Dataset (Large - 15 GB)](https://www.kaggle.com/datasets)
 - **DeepFashion dataset (44,441 images)** used for pre-training to overcome small dataset limitations.
+![Dataset Preview](/project_snippets/dataset.png)
 
 ---
 
@@ -97,7 +98,8 @@ After running the command, the application will start a local web server and aut
 
 Our model achieves high accuracy in finding visually similar fashion items. Some example recommendations:
 
-![Example Recommendations](https://via.placeholder.com/600x400?text=Example+Recommendations)
+![Output screen](/project_snippets/result.png)
+
 
 The system successfully captures:
 - Color patterns
